@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Classfier:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Classfier_jar</output-path>
+    <root id="archive" name="Classfier.jar">
+      <element id="module-output" name="Classfier" />
+    </root>
+  </artifact>
+</component>
